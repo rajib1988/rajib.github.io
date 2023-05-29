@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.E. in Mechanical Engineering, Jadavpur University, Kolkata, India 2010
+* M.A. in Economics, Centre for Economic Studies and Planning (CESP), Jawaharlal Nehru University, New Delhi, Inida 2013
+* M.Phil. in Economics, Jawaharlal Nehru University, New Delhi, Inida 2016
+* Ph.D in Game Theory and Experimat,Centre for Economic Studies and Planning (CESP), Jawaharlal Nehru University, New Delhi, Inida, 2023 (expected)
 
 Work experience
 ======
